@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../CSSFlexYoutube-start1/CSSFlexYoutube"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CSSFlexYoutube"
+	}
+}
